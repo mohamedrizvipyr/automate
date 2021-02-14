@@ -1,4 +1,2 @@
 rizvi
-a
-
-jmi
+ajmi
